@@ -1,0 +1,8 @@
+Datos de Elypsis 2017 conseguidos por Nico Abuchar
+Encuestas hechas a lo largo de 2017 en Prov de Buenos Aires sobre candidatos y temas de politica (como opinion sobre represesion)
+
+Preguntas:
+De cuando a cuando son las encuestas?
+
+Notas:
+"status" indica si se respondieron todas las preguntas o no
